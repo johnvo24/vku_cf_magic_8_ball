@@ -1,11 +1,11 @@
-name: mi_card_app
+name: magic_8_ball
 description: "A new Flutter project."
 publish_to: 'none'
 
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.5.1
+  sdk: ^3.5.3
 
 dependencies:
   flutter:
